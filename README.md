@@ -1,7 +1,5 @@
 # SQL
-SQL Certificate (IBM Cognitive Class)
-
----
+SQL Course Completion Certificate (IBM Cognitive Class)
 
 <p align="left">
 <a href="https://courses.cognitiveclass.ai/certificates/965237d5cd0a49328c64fae26fa55a73">
